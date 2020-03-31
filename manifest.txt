@@ -1,0 +1,3 @@
+AMI_NAME=TICK-stack-v0.1
+INSTANCE_TYPE=m5.4xlarge
+AMI_ID=ami-0a9b1c2d3e4f5g
