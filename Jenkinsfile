@@ -3,7 +3,7 @@
 @Library('amibuilder@master') _
 
 amiBuilder([
-    "BUILD_ACCOUNT"             : "viaduct09,
+    "BUILD_ACCOUNT"             : "viaduct09",
     post_build_steps            : this.&postbuild
 ])
 
